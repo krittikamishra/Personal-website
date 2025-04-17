@@ -1,0 +1,33 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+    margin-left:20px;
+
+}
+.travel_mainDiv{
+    border:1px solid lightgray
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float:right;
+}
+.movie_text span{
+    color: yellow;
+}
+.books hr{
+    margin-bottom: 10px;
+}
+#contact iframe{
+    width: 100%;
+}
